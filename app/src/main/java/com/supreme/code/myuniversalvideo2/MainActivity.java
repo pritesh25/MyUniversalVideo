@@ -96,6 +96,7 @@ public class MainActivity extends AppCompatActivity implements UniversalVideoVie
             }
         });
     }
+
     /*
     @Override
     public void onScaleChange(boolean isFullscreen) {
