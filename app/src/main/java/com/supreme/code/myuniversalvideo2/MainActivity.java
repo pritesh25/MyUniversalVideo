@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity implements UniversalVideoVie
     private int mSeekPosition;
     private int cachedHeight;
     //private boolean isFullscreen;
+    //no idnt want that
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
